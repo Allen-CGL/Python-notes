@@ -1,2 +1,2 @@
-# Linux-notes
-notes for linux
+# Python-notes
+notes for Python
